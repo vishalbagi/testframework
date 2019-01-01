@@ -1,0 +1,66 @@
+2018-08-19 23:17:43 INFO  LogUtils:68 - class com.hf.test.services.Api|Response for Get Endpoint /country/get/alliscom.jayway.restassured.internal.RestAssuredResponseImpl@13579834
+2018-08-19 23:17:44 INFO  LogUtils:68 - class com.hf.test.services.Api|Response for Get Endpoint /country/get/iso2code/DEiscom.jayway.restassured.internal.RestAssuredResponseImpl@411291e5
+2018-08-19 23:17:45 INFO  LogUtils:68 - class com.hf.test.services.Api|Response for Get Endpoint /country/get/iso2code/GBiscom.jayway.restassured.internal.RestAssuredResponseImpl@13e698c7
+2018-08-19 23:17:46 INFO  LogUtils:68 - class com.hf.test.services.Api|Response for Get Endpoint /country/get/iso2code/USiscom.jayway.restassured.internal.RestAssuredResponseImpl@41477a6d
+2018-08-19 23:17:46 INFO  LogUtils:68 - class com.hf.test.services.Api|Response for Get Endpoint /country/get/iso2code/XXiscom.jayway.restassured.internal.RestAssuredResponseImpl@a619c2
+2018-08-19 23:17:48 INFO  LogUtils:68 - class com.hf.test.services.Api|Response for Post Endpoint {name=Wakanda, alpha2_code=XX, alpha3_code=XCV}iscom.jayway.restassured.internal.RestAssuredResponseImpl@7a799159
+2018-08-19 23:18:03 INFO  LogUtils:68 - class com.hf.test.framework.PageObject|Click on locator By.className: login
+2018-08-19 23:18:04 INFO  LogUtils:68 - class com.hf.test.framework.PageObject|Clear text in locator By.id: email
+2018-08-19 23:18:04 INFO  LogUtils:68 - class com.hf.test.framework.PageObject|Send  hf_challenge_123456@hf12j345.com in locatorBy.id: email
+2018-08-19 23:18:04 INFO  LogUtils:68 - class com.hf.test.framework.PageObject|Click on locator By.className: login
+2018-08-19 23:18:05 INFO  LogUtils:68 - class com.hf.test.framework.PageObject|Clear text in locator By.id: passwd
+2018-08-19 23:18:05 INFO  LogUtils:68 - class com.hf.test.framework.PageObject|Send  12345678 in locatorBy.id: passwd
+2018-08-19 23:18:05 INFO  LogUtils:68 - class com.hf.test.framework.PageObject|Clear text in locator By.id: email
+2018-08-19 23:18:05 INFO  LogUtils:68 - class com.hf.test.framework.PageObject|Click on locator By.className: login
+2018-08-19 23:18:05 INFO  LogUtils:68 - class com.hf.test.framework.PageObject|Send  hf_challenge_123456@hf12j345.com in locatorBy.id: email
+2018-08-19 23:18:05 INFO  LogUtils:68 - class com.hf.test.framework.PageObject|Send  t5li2u@testexample.com in locatorBy.id: email_create
+2018-08-19 23:18:06 INFO  LogUtils:68 - class com.hf.test.framework.PageObject|Clear text in locator By.id: passwd
+2018-08-19 23:18:06 INFO  LogUtils:68 - class com.hf.test.framework.PageObject|Click on locator By.id: SubmitCreate
+2018-08-19 23:18:06 INFO  LogUtils:68 - class com.hf.test.framework.PageObject|Send  12345678 in locatorBy.id: passwd
+2018-08-19 23:18:08 INFO  LogUtils:68 - class com.hf.test.framework.helpers.utils.RandomGenerator|Random value generated for type :ALPHABETSis JWfqGX
+2018-08-19 23:18:08 INFO  LogUtils:68 - class com.hf.test.framework.helpers.utils.RandomGenerator|Random value generated for type :ALPHABETSis yvjwAl
+2018-08-19 23:18:08 INFO  LogUtils:68 - class com.hf.test.framework.helpers.utils.RandomGenerator|Random value generated for type :ALPHANUMERICis 1WfKhv
+2018-08-19 23:18:08 INFO  LogUtils:68 - class com.hf.test.framework.PageObject|Click on locator By.id: SubmitLogin
+2018-08-19 23:18:08 INFO  LogUtils:68 - class com.hf.test.framework.PageObject|Send  JWfqGX in locatorBy.id: customer_firstname
+2018-08-19 23:18:08 INFO  LogUtils:68 - class com.hf.test.framework.PageObject|Send  yvjwAl in locatorBy.id: customer_lastname
+2018-08-19 23:18:08 INFO  LogUtils:68 - class com.hf.test.framework.PageObject|text in locator By.xpath: //*[@class='page-heading'] is MY ACCOUNT
+2018-08-19 23:18:09 INFO  LogUtils:68 - class com.hf.test.framework.PageObject|Send  1WfKhv in locatorBy.id: passwd
+2018-08-19 23:18:09 INFO  LogUtils:68 - class com.hf.test.framework.PageObject|Click on locator By.id: SubmitLogin
+2018-08-19 23:18:09 INFO  LogUtils:68 - class com.hf.test.framework.PageObject|Click on locator By.id: id_gender1
+2018-08-19 23:18:10 INFO  LogUtils:68 - class com.hf.test.framework.PageObject|text in locator By.xpath: //*[@class='page-heading'] is MY ACCOUNT
+2018-08-19 23:18:11 INFO  LogUtils:68 - class com.hf.test.framework.PageObject|text in locator By.cssSelector: .account is Joe Black
+2018-08-19 23:18:11 INFO  LogUtils:68 - class com.hf.test.framework.PageObject|text in locator By.cssSelector: .info-account is Welcome to your account. Here you can manage all of your personal information and orders.
+2018-08-19 23:18:12 INFO  LogUtils:68 - class com.hf.test.framework.helpers.utils.RandomGenerator|Random value generated for type :ALPHABETSis ukPjcJ
+2018-08-19 23:18:12 INFO  LogUtils:68 - class com.hf.test.framework.helpers.utils.RandomGenerator|Random value generated for type :ALPHABETSis qxKHHI
+2018-08-19 23:18:12 INFO  LogUtils:68 - class com.hf.test.framework.helpers.utils.RandomGenerator|Random value generated for type :ALPHABETSis tjWxVq
+2018-08-19 23:18:12 INFO  LogUtils:68 - class com.hf.test.framework.helpers.utils.RandomGenerator|Random value generated for type :ALPHABETSis YCgMyz
+2018-08-19 23:18:12 INFO  LogUtils:68 - class com.hf.test.framework.helpers.utils.RandomGenerator|Random value generated for type :ALPHABETSis NNPaZA
+2018-08-19 23:18:12 INFO  LogUtils:68 - class com.hf.test.framework.helpers.utils.RandomGenerator|Random value generated for type :NUMERICis 9559211005
+2018-08-19 23:18:12 INFO  LogUtils:68 - class com.hf.test.framework.helpers.utils.RandomGenerator|Random value generated for type :NUMERICis 8901388139
+2018-08-19 23:18:12 INFO  LogUtils:68 - class com.hf.test.framework.helpers.utils.RandomGenerator|Random value generated for type :NUMERICis 44556
+2018-08-19 23:18:12 INFO  LogUtils:68 - class com.hf.test.framework.PageObject|Locator By.cssSelector: .logout is displayed :true
+2018-08-19 23:18:13 INFO  LogUtils:68 - class com.hf.test.framework.PageObject|Send  ukPjcJ in locatorBy.id: company
+2018-08-19 23:18:13 INFO  LogUtils:68 - class com.hf.test.framework.PageObject|Send  qxKHHI in locatorBy.id: address1
+2018-08-19 23:18:14 INFO  LogUtils:68 - class com.hf.test.framework.PageObject|Send  tjWxVq in locatorBy.id: address2
+2018-08-19 23:18:14 INFO  LogUtils:68 - class com.hf.test.framework.PageObject|Send  YCgMyz in locatorBy.id: city
+2018-08-19 23:18:14 INFO  LogUtils:68 - class com.hf.test.framework.PageObject|Click on locator By.linkText: Women
+2018-08-19 23:18:14 INFO  LogUtils:68 - class com.hf.test.framework.PageObject|Send  HomeAddress in locatorBy.id: other
+2018-08-19 23:18:14 INFO  LogUtils:68 - class com.hf.test.framework.PageObject|Send  NNPaZA in locatorBy.id: alias
+2018-08-19 23:18:15 INFO  LogUtils:68 - class com.hf.test.framework.PageObject|Send  9559211005 in locatorBy.id: phone
+2018-08-19 23:18:15 INFO  LogUtils:68 - class com.hf.test.framework.PageObject|Send  8901388139 in locatorBy.id: phone_mobile
+2018-08-19 23:18:15 INFO  LogUtils:68 - class com.hf.test.framework.PageObject|Send  44556 in locatorBy.id: postcode
+2018-08-19 23:18:19 INFO  LogUtils:68 - class com.hf.test.framework.PageObject|Click on locator By.xpath: //a[@title='Faded Short Sleeve T-shirts'][@class='product-name']
+2018-08-19 23:18:20 INFO  LogUtils:68 - class com.hf.test.framework.PageObject|Click on locator By.xpath: //a[@name='Blue']
+2018-08-19 23:18:20 INFO  LogUtils:68 - class com.hf.test.framework.PageObject|Clear text in locator By.id: quantity_wanted
+2018-08-19 23:18:20 INFO  LogUtils:68 - class com.hf.test.framework.PageObject|Send  2 in locatorBy.id: quantity_wanted
+2018-08-19 23:18:21 INFO  LogUtils:68 - class com.hf.test.framework.PageObject|text in locator By.cssSelector: .info-account is Welcome to your account. Here you can manage all of your personal information and orders.
+2018-08-19 23:18:22 INFO  LogUtils:68 - class com.hf.test.framework.PageObject|Locator By.cssSelector: .logout is displayed :true
+2018-08-19 23:18:22 INFO  LogUtils:68 - class com.hf.test.framework.PageObject|Click on locator By.name: Submit
+2018-08-19 23:18:27 INFO  LogUtils:68 - class com.hf.test.framework.PageObject|Click on locator By.xpath: //div[@class='button-container']/a[@title='Proceed to checkout']
+2018-08-19 23:18:30 INFO  LogUtils:68 - class com.hf.test.framework.PageObject|Click on locator By.xpath: //*[contains(@class,'cart_navigation')]/a[@title='Proceed to checkout']
+2018-08-19 23:18:32 INFO  LogUtils:68 - class com.hf.test.framework.PageObject|Click on locator By.name: processAddress
+2018-08-19 23:18:33 INFO  LogUtils:68 - class com.hf.test.framework.PageObject|Click on locator By.id: uniform-cgv
+2018-08-19 23:18:37 INFO  LogUtils:68 - class com.hf.test.framework.PageObject|Click on locator By.name: processCarrier
+2018-08-19 23:18:40 INFO  LogUtils:68 - class com.hf.test.framework.PageObject|Click on locator By.cssSelector: .bankwire
+2018-08-19 23:18:43 INFO  LogUtils:68 - class com.hf.test.framework.PageObject|Click on locator By.xpath: //*[@id='cart_navigation']/button
+2018-08-19 23:18:48 INFO  LogUtils:68 - class com.hf.test.framework.PageObject|Click on locator By.className: logout
